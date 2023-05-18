@@ -1,0 +1,114 @@
+.button_seat{
+    margin-top: 40px;
+    border: none;
+    border-radius: 15px;
+    width: 130px;
+    height: 75px;
+    background: #d2e88d;
+    color: #616123;
+    font-weight: bold;
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+.button_seat:disabled{
+    background:  #F7F8F2;
+    color: #B7BBAA;
+    /*box-shadow: 3px 5px 2px #e9eae8;*/
+    cursor: no-drop;
+}
+
+.two_select_button_selected{
+    /*margin-top: 40px;*/
+    border: none;
+    border-radius: 7px;
+    width: 90px;
+    height: 56px;
+    background: #C6E8A8;
+    color: #48573B;
+    /*font-weight: bold;*/
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+
+.two_select_button_not_selected{
+    /*margin-top: 40px;*/
+    border: none;
+    border-radius: 7px;
+    width: 90px;
+    height: 56px;
+    background: #F7F8F2;
+    color: #616123;
+    /*font-weight: bold;*/
+    /*font-size: 8px;*/
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+
+.two_select_button2_selected{
+    /*margin-top: 40px;*/
+    border: none;
+    border-radius: 7px;
+    width: 82px;
+    height:40px;
+    background: #C6E8A8;
+    color: #48573B;
+    /*font-weight: bold;*/
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+
+.two_select_button2_not_selected{
+    /*margin-top: 40px;*/
+    border: none;
+    border-radius: 7px;
+    width: 82px;
+    height: 40px;
+    background: #F7F8F2;
+    color: #616123;
+    /*font-weight: bold;*/
+    /*font-size: 8px;*/
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+
+.button_seat_notebook{
+    /*border: solid 2px #616123;*/
+    border: solid 1px white;
+    border-radius: 4px;
+    width: 120px;
+    height: 70px;
+    background: #DDECB0;
+    color: #616123;
+    font-weight: 500;
+    box-shadow: 3px 5px 2px #e9eae8;
+}
+
+.button_seat_notebook:disabled{
+    background:  #F7F8F2;
+    color: #B7BBAA;
+    /*box-shadow: 3px 5px 2px #e9eae8;*/
+    cursor: no-drop;
+}
+
+.selectCustom{
+    padding: 8px;
+    border-radius: 4px;
+    background-color: white;
+    align-self: center;
+    border-width: 1px;
+    border-color: black;
+    color: black;
+    font-family: 'NeoDunggeunmoPro-Regular';
+}
+
+.dateCustom{
+    text-align: center;
+    align-self: center;
+    /*margin-left: 700px;*/
+    display: flex;
+    justify-content: center;
+
+}
+
+.dateCustom2{
+    /*text-align: center;*/
+    /*align-self: center;*/
+    /*margin-right: 600px;*/
+
+
+}

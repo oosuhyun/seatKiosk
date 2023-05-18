@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NeoDunggeunmoPro-Regular';
+    src: url('./NeoDunggeunmoPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'kyobo';
+    src: url('../../../../../../../../kiosk/kiosk/src/main/frontend/src/assets/fonts/KyoboHandwriting2021sjy.ttf');
+}
